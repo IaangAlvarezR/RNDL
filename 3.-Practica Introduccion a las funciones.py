@@ -23,6 +23,10 @@ longitud_libro_20 = len(libro_20Caracteres)
 longitud_libro_23 = len(libro_23Caracteres)
 longitud_libro_24 = len(libro_24Caracteres)
 
+#se añade separacion y nombre de archivo
+print()
+print("3.-Practica Introduccion a las funciones.py")
+
 print(f"La longitud del título {libro_20Caracteres} es: {longitud_libro_20}")
 print(f"La longitud del título {libro_23Caracteres} es: {longitud_libro_23}")
 print(f"La longitud del título {libro_24Caracteres} es: {longitud_libro_24}")

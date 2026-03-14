@@ -7,7 +7,10 @@
 #
 #Resultado esperado
 #¿Son "gato" y "perro" dos palabras con la misma longitud? False
-#
+
+#se añade separacion y nombre de archivo
+print()
+print("8.-oper-asig-bol.py")
 
 def comparar_longitud(palabra1, palabra2):
     #docstring

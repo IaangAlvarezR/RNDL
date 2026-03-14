@@ -29,6 +29,10 @@ def organizar_fiesta(invitados, tema="Python", lugar="aula de informática"):
     print(f"Tema de la fiesta: {tema}")
     print(f"Lugar de la celebración: {lugar}")
 
+#se añade separacion y nombre de archivo
+print()
+print("5.-TiposDeArg.py")
+
 # Pruebas
 organizar_fiesta(10)
 print() 

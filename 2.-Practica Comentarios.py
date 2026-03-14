@@ -29,7 +29,9 @@
 
 
 
-
+#se añade separacion y nombre de archivo
+print()
+print("2.-Practica Comentarios.py")
 
 #Primera parte:
 #La Expedición a Marte ha sido un éxito.

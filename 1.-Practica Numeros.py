@@ -31,7 +31,9 @@ edad_astronauta = 26
 destino = "Marte"
 introduccion = f"Hola, soy {nombre_astronauta}, tengo {edad_astronauta} años y mi próximo destino es {destino}."
 titulo = "Diario de un Astronauta"
-
+#se añade separacion y nombre de archivo
+print()
+print("1.-Practica Numeros.py")
 print(titulo)
 print(introduccion)
 
@@ -51,4 +53,3 @@ mensaje_personal_2 = "Flotar en el espacio nunca deja de asombrarme."
 print(f"Fecha: {fecha_2}")
 print(actividad_2)
 print(f"Mensaje personal: {mensaje_personal_2}")
-

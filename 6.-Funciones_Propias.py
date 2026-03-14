@@ -24,6 +24,10 @@
 #Cadena: 42, Tipo: <class 'str'>
 #Flotante: 42.0, Tipo: <class 'float'>
 
+#se añade separacion y nombre de archivo
+print()
+print("6.-Funciones_Propias.py")
+
 def contar_caracteres(frase):
     """Cuenta los caracteres de una frase y muestra la frase junto con su longitud."""
     

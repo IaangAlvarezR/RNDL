@@ -12,6 +12,10 @@
 #Nombre del planeta: Marte
 #Distancia al planeta: 225 millones de km
 
+#se añade separacion y nombre de archivo
+print()
+print("4.-FuncionesPersonalizadas.py")
+
 def generar_distancia_planeta(nombre_planeta, distancia_millones_km):
     """Genera la distancia a un planeta dado su nombre y distancia en millones de km."""
     

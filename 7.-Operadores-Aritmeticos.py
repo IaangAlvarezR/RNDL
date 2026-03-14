@@ -8,6 +8,10 @@
 #Resultado esperado
 #Calorías totales: 245
 
+#se añade separacion y nombre de archivo
+print()
+print("7.-Operadores-Aritmeticos.py")
+
 def calcular_calorias(carbohidratos, proteinas, grasas):
     #docstring
     """Calcula las calorías totales a partir de la cantidad de carbohidratos, proteínas y grasas."""
