@@ -10,6 +10,8 @@
 #
 
 def comparar_longitud(palabra1, palabra2):
+    #docstring
+    """Compara la longitud de dos palabras y devuelve True si son iguales, False en caso contrario."""
     longitud1 = len(palabra1)
     longitud2 = len(palabra2)
     return longitud1 == longitud2
