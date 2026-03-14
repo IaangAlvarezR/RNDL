@@ -1,6 +1,9 @@
 
-#ingresar nombre por teclado
-nombre = input("Ingrese su nombre: ")
+#Valor por defecto a nombre
+nombre = "Iaan"
+
+#Se comenta para evitar que el programa se detenga esperando input y falle en workflow de github
+#nombre = input("Ingrese su nombre: ")  #ingresar nombre por teclado
 
 
 def cabecera():
