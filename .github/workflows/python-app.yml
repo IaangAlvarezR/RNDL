@@ -3,6 +3,7 @@ name: Ejecutar Practicas Python
 on:
   push:
     branches: ["Modulo2"]
+  workflow_dispatch:
 
 jobs:
   run-python:
