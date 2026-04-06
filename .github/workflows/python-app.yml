@@ -32,3 +32,5 @@ jobs:
           python "6.-Funciones_Propias.py"
           python "7.-Operadores-Aritmeticos.py"
           python "8.-oper-asig-bol.py"
+          python "9.-Oper-id-pert-logig.py"
+          python "10.-Calculadora-Calorias.py"
